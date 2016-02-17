@@ -1,0 +1,63 @@
+/*===GLOBAL STYLES===*/
+
+a{
+    
+}
+
+body{
+    margin:0px;
+}
+
+
+h1{
+    
+}
+
+p{
+    
+}
+
+header {
+    height:150px;
+    background-color:#800000;
+    
+}
+
+main {
+    width:90%;
+    margin:20px auto;
+}
+
+footer {
+    height:150px;
+    background-color:#800000;
+    padding:40px;
+    
+}
+
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    font-size:20px;
+    
+}
+
+/*===BUTTON STYLES===*/
+
+.button {
+    background-color:#800000;
+    padding:20px 15px;
+    border-radius:10px;
+}
+
+.button:hover {
+    background-color:#00FF00;
+}
+
+/*===OTHER STYLES===*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
+
