@@ -107,4 +107,14 @@ footer p {
     text-align:center;
 }
 
+.shareButtons {
+    background-color:#A9A9A9;
+    padding:10px;
+    border-radius:15px;
+    font-family:'Handlee', cursive;
+    text-decoration:none;
+    color:#FFFFFF;
+    display:inline-block;
+    font-size:15px;
+}
 
