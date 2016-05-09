@@ -15,6 +15,7 @@ body{
     background-size: cover;
 }
 
+/*CHANGE FONT HERE ON THE H1 TAG*/
 
 h1{
     /*font-family: 'Comfortaa', cursive;*/
@@ -63,7 +64,7 @@ header {
 main {
     width:90%;
     margin:20px auto;
-    height:450px;
+    height:500px;
 }
 
 footer {
@@ -96,6 +97,13 @@ footer p {
     background-color:#808080;
 }
 
+.shareButtons:hover {
+    background-color: #808080;
+}
+
+.shareButtons1:hover {
+    background-color: #808080;
+}
 /*===OTHER STYLES===*/
 
 .imageCenter {
@@ -108,7 +116,7 @@ footer p {
 }
 
 .shareButtons {
-    background-color:#A9A9A9;
+    background-color:#800000;
     padding:10px;
     border-radius:15px;
     font-family:'Handlee', cursive;
@@ -118,3 +126,17 @@ footer p {
     font-size:15px;
 }
 
+.shareButtons1 {
+    background-color:#800000;
+    padding:10px;
+    border-radius:15px;
+    font-family:'Handlee', cursive;
+    text-decoration:none;
+    color:#FFFFFF;
+    display:inline-block;
+    font-size:15px;
+}
+
+.shareButtonCenter {
+    text-align:center;
+}
