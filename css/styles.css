@@ -18,8 +18,8 @@ body{
 /*CHANGE FONT HERE ON THE H1 TAG*/
 
 h1{
-    /*font-family: 'Comfortaa', cursive;*/
-   font-family: 'Handlee', cursive;
+    font-family: 'Comfortaa', cursive;
+   /*font-family: 'Handlee', cursive;*/
    font-size:65px;
    text-align:center;
    color:#FFFFFF;
